@@ -5,7 +5,7 @@ The animation shows some bubbles are popping in and out from the bottom of the s
 
 
 (i) Number of bubbles:
-Copy and paste "<img src="bubble.png" alt="bubble">" this line or remove one line from "bubbles" class to increase or reduce the number of bubbles.
+Copy and paste '< img src="bubble.png" alt="bubble" >' this line or remove one line from "bubbles" class to increase or reduce the number of bubbles.
 
 (ii) Bubble size:
 Size of the bubbles can be varied from css. Just change the "width" property of "bubbles img:nth-child(n)".
